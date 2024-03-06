@@ -1,0 +1,15 @@
+css
+1-inline css
+2.internal css
+ selector{
+    property:value;
+ }
+
+ internal vs inline
+ inline
+
+ internal vs external
+ internal
+
+ inline vs external
+ inline
