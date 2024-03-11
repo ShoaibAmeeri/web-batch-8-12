@@ -1,0 +1,15 @@
+.box{
+    width: 220px;
+    height: 200px;
+    background-color: brown;
+
+    /* box-shadow: 5px 5px green , 10px 10px red , 13px 13px yellow, 15px 15px green , 20px 20px red , 23px 23px yellow; */
+    /* box-shadow:  5px -5px 3px 10px green inset; */
+    /* outline: 5px solid green; */
+    border: 2px solid blue;
+    outline: 2px solid green ;
+    outline-offset: 5px;
+    display: inline-block;
+}
+
+

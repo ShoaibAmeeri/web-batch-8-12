@@ -1,0 +1,40 @@
+h1{
+    /* display: none; */
+    /* display: inline; */
+    border: 2px solid red;
+}
+
+/* p{
+    display: inline;
+} */
+
+ul{
+    /* border: 2px solid yellow; */
+    background-color: blue;
+}
+li{
+    /* border: 2px solid brown; */
+    display: inline;
+    color: white;
+    padding: 3px;
+}
+
+a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 40px;
+}
+
+span{
+    display: block;
+    /* display: inline; */
+    display: inline-block;
+    border: 3px solid black;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: 50px;
+}
+
+
